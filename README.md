@@ -1,5 +1,5 @@
 # Unity Skybox 360 Video Player
-A very basic 360 video implementation and demo. Uses a SkyBox rendering technique.
+A very basic 360 video implementation and demo. Uses a SkyBox rendering technique. Compatiable with Unity 2017.
 
 Uses the [Skybox Panoramic shader](https://github.com/Unity-Technologies/SkyboxPanoramicShader) by Unity-Technologies
 

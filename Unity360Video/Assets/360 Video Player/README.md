@@ -14,7 +14,9 @@ https://www.mettle.com/360vr-master-series-free-360-downloads-page/
 
 
 
-How to use:
+## How to use
+To use, simply use the Main Camera prefab which has the Video Texture for the 360 Skybox made for you.
+
 - See MainCamera/360 Video Player gameobject to change the video being played
 - See **Rendering/360VideoRenderTexture.renderTexture** file to change the *resolution* of the video file to be played. This render texture must match the video's resolution.
 

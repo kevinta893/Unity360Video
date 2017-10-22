@@ -3,8 +3,7 @@ A very basic 360 video implementation and demo. Uses a SkyBox rendering techniqu
 
 Uses the [Skybox Panoramic shader](https://github.com/Unity-Technologies/SkyboxPanoramicShader) by Unity-Technologies
 
-360 Video Player in Unity
-By: DominiqueLrx
+(Old Sphere Method) 360 Video Player in Unity, By: DominiqueLrx
 https://forum.unity3d.com/threads/playing-360-videos-with-the-videoplayer.461290/
 
 Sample 360 Videos by: 
